@@ -1,4 +1,4 @@
-# Decision Tree Iris
+# Decision Tree Iris 🌺
 ## Árvore de decisão com o dataset Iris
 Esse projeto tem como finalidade a criação de uma árvore de decisão, utilizando o banco de dados Iris, para fazer a predição de características dessa espécie de flor.
 
